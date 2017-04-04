@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TopSample</string>
+    <string name="steps_button_title">今日の歩数</string>
+
+    <string name="title_activity_content">今日のあなた</string>
+    <string name="dummy_button">OK</string>
+    <string name="dummy_content">今日の歩数</string>
+
+    <string name="message_level0">歩って。\n少しは運動しろよ。\n太るぞ</string>
+    <string name="message_level1">歩ですか。\nコンビニまで歩いていったくらい？\n一駅早く降りて帰ればいいと思うよ。</string>
+    <string name="message_level2">歩ねぇ。\nやるじゃん。その調子</string>
+    <string name="message_level3">歩！\n\n\nあんた、暇なの？</string>
+
+    <string name="button_title0">余計なお世話</string>
+    <string name="button_title1">はい、そうですねー</string>
+    <string name="button_title2">あんたに言われたくない</string>
+    <string name="button_title3">うるさい</string>
+</resources>
